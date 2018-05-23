@@ -1,0 +1,4 @@
+line-bot-sdk
+flask
+BeautifulSoup4==4.6.0
+requests
